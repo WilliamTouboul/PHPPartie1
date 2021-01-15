@@ -8,6 +8,7 @@
 </head>
 
 <body>
+<!-- Créer une variable name et l'initialiser avec la valeur de votre choix.  Afficher son contenu. -->
 
     <?php
     $premiereVariable = 'Salutations, peuple de la terre';
